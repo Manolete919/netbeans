@@ -1,0 +1,3 @@
+Extension-Name: myExtension
+Specification-Version: 2.0
+Implementation-Version: 9.0.0
